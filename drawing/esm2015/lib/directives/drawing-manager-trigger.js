@@ -1,4 +1,4 @@
-import { AgmMap } from '@agm/core';
+import { AgmMap } from '@powen_labs/maps-core';
 import { Directive, Host, Input } from '@angular/core';
 import { first } from 'rxjs/operators';
 export class AgmDrawingManagerTrigger {

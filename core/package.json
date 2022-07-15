@@ -1,6 +1,6 @@
 {
-  "name": "@agm/core",
-  "version": "3.0.0-beta.0",
+  "name": "@powen_labs/maps-core",
+  "version": "3.0.2-beta.0",
   "description": "Angular components for Google Maps",
   "author": "Sebastian Holstein <info@sebastian-holstein.de>",
   "license": "MIT",

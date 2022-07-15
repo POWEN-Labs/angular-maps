@@ -1,6 +1,6 @@
 (function (global, factory) {
-    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/core'), require('rxjs'), require('@agm/core'), require('rxjs/operators')) :
-    typeof define === 'function' && define.amd ? define('@agm/drawing', ['exports', '@angular/core', 'rxjs', '@agm/core', 'rxjs/operators'], factory) :
+    typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/core'), require('rxjs'), require('@powen_labs/maps-core'), require('rxjs/operators')) :
+    typeof define === 'function' && define.amd ? define('@powen_labs/maps-drawing', ['exports', '@angular/core', 'rxjs', '@powen_labs/maps-core', 'rxjs/operators'], factory) :
     (global = global || self, factory((global.agm = global.agm || {}, global.agm.drawing = {}), global.ng.core, global.rxjs, global.core$1, global.rxjs.operators));
 }(this, (function (exports, core, rxjs, core$1, operators) { 'use strict';
 

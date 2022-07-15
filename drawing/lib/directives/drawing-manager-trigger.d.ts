@@ -1,4 +1,4 @@
-import { AgmMap } from '@agm/core';
+import { AgmMap } from '@powen_labs/maps-core';
 import { AfterViewInit, OnDestroy } from '@angular/core';
 import { AgmDrawingManager } from './drawing-manager';
 export declare class AgmDrawingManagerTrigger implements AfterViewInit, OnDestroy {

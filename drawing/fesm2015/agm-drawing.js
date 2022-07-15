@@ -1,6 +1,6 @@
 import { EventEmitter, isDevMode, Directive, NgZone, Input, Output, Host, NgModule } from '@angular/core';
 import { fromEventPattern } from 'rxjs';
-import { AgmMap, AgmCoreModule } from '@agm/core';
+import { AgmMap, AgmCoreModule } from '@powen_labs/maps-core';
 import { first } from 'rxjs/operators';
 
 class AgmDrawingManager {
