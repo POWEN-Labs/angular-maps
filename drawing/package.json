@@ -1,5 +1,5 @@
 {
-  "name": "@powen_labs/maps-drawing/drawing",
+  "name": "@powen_labs/maps-drawing",
   "version": "3.0.2-beta.0",
   "description": "Angular Google Maps (AGM) extension for google maps drawing library",
   "author": "Feliks Khantsis",
